@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Math Game</string>
+    <string name="answer_correct">Congratulations! Your answer is correct.</string>
+    <string name="answer_incorrect">Sorry, your answer is incorrect.</string>
+    <string name="answer_hint_toast">Please write an answer or click the next button to skip this question.</string>
+    <string name="time_up">Sorry, your time is up.</string>
+    <string name="final_score">Your score: %d</string>
+    <string name="score">Score:</string>
+    <string name="life">Life:</string>
+    <string name="time">Time:</string>
+    <string name="answer_hint">Write your answer here...</string>
+    <string name="next">Next</string>
+    <string name="game_over">GAME OVER</string>
+    <string name="play_again">Play again</string>
+    <string name="exit">Exit</string>
+    <string name="addition">Addition</string>
+    <string name="subtraction">Subtraction</string>
+    <string name="multiplication">Multiplication</string>
+    <string name="division">Division</string>
+</resources>

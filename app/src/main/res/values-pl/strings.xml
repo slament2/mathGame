@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gra Matematyczna</string>
+    <string name="answer_correct">Gratulacje! Twoja odpowiedź jest poprawna.</string>
+    <string name="answer_incorrect">Niestety, twoja odpowiedź jest niepoprawna.</string>
+    <string name="answer_hint_toast">Wpisz odpowiedź lub naciśnij \"Dalej\" aby pominąć pytanie.</string>
+    <string name="time_up">Niestety, czas na odpowiedź minął.</string>
+    <string name="final_score">Twój wynik: %d</string>
+    <string name="score">Wynik:</string>
+    <string name="life">Życie:</string>
+    <string name="time">Czas:</string>
+    <string name="answer_hint">Wpisz swoją odpowiedź...</string>
+    <string name="next">Dalej</string>
+    <string name="game_over">KONIEC GRY</string>
+    <string name="play_again">Jeszcze raz</string>
+    <string name="exit">Wyjdź</string>
+    <string name="addition">Dodawanie</string>
+    <string name="subtraction">Odejmowanie</string>
+    <string name="multiplication">Mnożenie</string>
+    <string name="division">Dzielenie</string>
+</resources>
